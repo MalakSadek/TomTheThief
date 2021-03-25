@@ -7,4 +7,4 @@ The game is coded in `C++` and begins with an introductory comic strip and the m
 
 * email: mfzs1@st-andrews.ac.uk
 * LinkedIn: www.linkedin.com/in/malak-sadek-17aa65164/
-* website: https://malaksadek.wordpress.com/
+* website: http://malaksadekapps.com/
